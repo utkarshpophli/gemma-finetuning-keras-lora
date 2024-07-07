@@ -1,7 +1,7 @@
 from src.data_preprocessing import load_and_preprocess_data
 from src.model import load_gemma_model, enable_lora, compile_model
-from config import Config
-from logger import setup_logger
+from utils.config import Config
+from utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 

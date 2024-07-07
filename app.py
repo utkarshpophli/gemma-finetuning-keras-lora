@@ -1,7 +1,7 @@
 import streamlit as st
 from src.model import load_gemma_model, enable_lora
 from src.utils import generate_text, format_prompt
-from config import Config
+from utils.config import Config
 
 config = Config()
 
