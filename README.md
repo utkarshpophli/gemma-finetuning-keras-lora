@@ -1,4 +1,4 @@
-# 🧠 Gemma's Glow-Up: Fine-tuning with LoRA Magic ✨
+# 🧠 Gemma's Fine-tuning with LoRA and Keras ✨
 
 Welcome to the coolest corner of the AI universe! 🌟 This project isn't just about fine-tuning a language model; it's about giving Gemma a fabulous makeover using the power of Low-Rank Adaptation (LoRA). Get ready to witness a transformation that would make any AI fashionista proud!
 
