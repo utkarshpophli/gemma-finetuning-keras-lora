@@ -1,0 +1,6 @@
+tensorflow
+keras
+keras-nlp
+datasets
+tensorflow-text
+streamlit
