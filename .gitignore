@@ -38,9 +38,5 @@ Thumbs.db
 *.ckpt
 *.pb
 
-.data/
 .gitkeep
 
-
-.models/
-.gitkeep
